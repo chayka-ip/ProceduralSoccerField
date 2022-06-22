@@ -17,7 +17,7 @@ Parameters that can be adjusted:
 - Penalty mark location;
 - Central circle radius;
 - Penalty/Corner arc radius;
-- Number width, color of grass lines.
+- Number, width, color of grass lines.
 
 ### Video Showcase:
 
